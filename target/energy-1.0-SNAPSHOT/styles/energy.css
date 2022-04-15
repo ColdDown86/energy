@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bar{
+    margin:0 auto;
+    text-align: center;
+    width: 1080px;
+}
+
+.header{
+    background-image: url(../images/logo.png);
+    height: 210px;
+    color: #fff;
+    font-size: 40px;
+    padding-top: 40px;
+    letter-spacing: 20px;
+}
+
+.nav{
+    /*需补充*/
+}
+
+.menu{
+    /*需补充*/
+    /*导航菜单要求横向排列*/
+}
+.footer{
+    /*需补充*/
+}
